@@ -1,6 +1,6 @@
 {
   "appId": "com.Joanium.app",
-  "productName": "Joanium",
+  "productName": "Joanium Classic",
   "directories": {
     "output": "dist"
   },
