@@ -3,7 +3,7 @@
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/d238934d-b5cc-4a81-b081-eca743ef30ff">
-        <img src="https://github.com/user-attachments/assets/d238934d-b5cc-4a81-b081-eca743ef30ff" alt="Joanium" width="200">
+        <img src="https://github.com/user-attachments/assets/d238934d-b5cc-4a81-b081-eca743ef30ff" alt="Joanium Classic" width="200">
     </picture>
 </p>
 
@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/joanium/joanium/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/joanium/joanium/ci.yml?style=for-the-badge&label=CI&logo=github&logoColor=white" alt="CI"></a>
-  <a href="https://github.com/joanium/joanium/releases"><img src="https://img.shields.io/github/v/release/joanium/joanium?include_prereleases&style=for-the-badge&label=release" alt="GitHub release"></a>
-  <a href="https://github.com/joanium/joanium/stargazers"><img src="https://img.shields.io/github/stars/joanium/joanium?style=for-the-badge&color=yellow" alt="GitHub Stars"></a>
-  <a href="https://github.com/joanium/joanium/issues"><img src="https://img.shields.io/github/issues/joanium/joanium?style=for-the-badge&color=red" alt="Open Issues"></a>
+  <a href="https://github.com/joanium/joanium-Classic/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/joanium/joanium-Classic/ci.yml?style=for-the-badge&label=CI&logo=github&logoColor=white" alt="CI"></a>
+  <a href="https://github.com/joanium/joanium-Classic/releases"><img src="https://img.shields.io/github/v/release/joanium/joanium-Classic?include_prereleases&style=for-the-badge&label=release" alt="GitHub release"></a>
+  <a href="https://github.com/joanium/joanium-Classic/stargazers"><img src="https://img.shields.io/github/stars/joanium/joanium-Classic?style=for-the-badge&color=yellow" alt="GitHub Stars"></a>
+  <a href="https://github.com/joanium/joanium-Classic/issues"><img src="https://img.shields.io/github/issues/joanium/joanium-Classic?style=for-the-badge&color=red" alt="Open Issues"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-blue?style=for-the-badge" alt="Apache 2.0 License"></a>
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-555555?style=for-the-badge" alt="Platform">
   <img src="https://img.shields.io/badge/node-%3E%3D24-43853d?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
@@ -28,12 +28,12 @@
   <a href="https://joanium.com/docs">📖 Docs</a> ·
   <a href="https://joanium.com/marketplace">🛍️ Marketplace</a> ·
   <a href="https://www.joanium.com/download">⬇️ Download</a> ·
-  <a href="https://github.com/joanium/joanium/discussions">💬 Discussions</a>
+  <a href="https://github.com/joanium/joanium-Classic/discussions">💬 Discussions</a>
 </p>
 
 ---
 
-> **Joanium** is a local-first AI desktop app that goes far beyond a chat window. It knows your projects and files, runs automations on a schedule, operates background agents, connects to GitHub / Gmail / Drive, and supports every major AI provider — all without sending your data to the cloud.
+> **Joanium Classic** is a local-first AI desktop app that goes far beyond a chat window. It knows your projects and files, runs automations on a schedule, operates background agents, connects to GitHub / Gmail / Drive, and supports every major AI provider — all without sending your data to the cloud.
 
 ---
 
@@ -45,9 +45,9 @@
 
 ## 🤔 Why Joanium instead of ChatGPT or Claude.ai?
 
-Those are great chat apps. Joanium is a different product entirely — it lives on your machine, understands your workspace, runs jobs while you sleep, and plugs into the tools you actually use.
+Those are great chat apps. Joanium Classic is a different product entirely — it lives on your machine, understands your workspace, runs jobs while you sleep, and plugs into the tools you actually use.
 
-| Capability                        | ChatGPT / Claude.ai       | **Joanium**                 |
+| Capability                        | ChatGPT / Claude.ai       | **Joanium Classic**                 |
 | --------------------------------- | ------------------------- | --------------------------- |
 | Reads your project files          | ❌ Upload every time      | ✅ Always in context        |
 | Runs tasks on a schedule          | ❌                        | ✅ Automations + Agents     |
@@ -64,7 +64,7 @@ Those are great chat apps. Joanium is a different product entirely — it lives 
 
 ### 💬 A chat that knows your work
 
-Joanium loads your active project, reads your files, runs terminal commands, handles attachments, and maintains separate chat history per project. Not a blank box — a genuine coworker.
+Joanium Classic loads your active project, reads your files, runs terminal commands, handles attachments, and maintains separate chat history per project. Not a blank box — a genuine coworker.
 
 ### ⏰ Automations that run themselves
 
@@ -90,7 +90,7 @@ All connected as first-class tools the assistant can actually invoke mid-convers
 
 ### 🧩 MCP (Model Context Protocol) support
 
-Connect any MCP-compatible server and expose its tools directly to the assistant. The ecosystem is growing fast — Joanium keeps up.
+Connect any MCP-compatible server and expose its tools directly to the assistant. The ecosystem is growing fast — Joanium Classic keeps up.
 
 ### 🛍️ Marketplace
 
@@ -107,7 +107,7 @@ Browse and install community-built Skills and Personas with one click. Publish y
 4. Add an API key for your preferred AI provider
 ```
 
-> 💡 **No paid API key?** Joanium supports **[Ollama](https://ollama.com)** and **LM Studio** for free fully-local models with zero extra configuration.
+> 💡 **No paid API key?** Joanium Classic supports **[Ollama](https://ollama.com)** and **LM Studio** for free fully-local models with zero extra configuration.
 
 ---
 
@@ -148,8 +148,8 @@ Switch models anytime, even mid-conversation. No lock-in, ever.
 Contributions are very welcome — big or small. Here's how to get started:
 
 ```bash
-git clone https://github.com/joanium/joanium.git
-cd joanium
+git clone https://github.com/joanium-Classic/joanium.git
+cd joanium-Classic
 npm install
 npm run dev          # start in dev mode
 npm run lint         # check code style
@@ -161,8 +161,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide, [CODE_OF_CONDUCT.md](
 
 ## 🌍 Community
 
-- [GitHub Discussions](https://github.com/joanium/joanium/discussions) — questions, ideas, show-and-tell
-- [Issues](https://github.com/joanium/joanium/issues) — bug reports and feature requests
+- [GitHub Discussions](https://github.com/joanium/joanium-Classic/discussions) — questions, ideas, show-and-tell
+- [Issues](https://github.com/joanium/joanium-Classic/issues) — bug reports and feature requests
 - [CHANGELOG](CHANGELOG.md) — full release history
 
 ---
@@ -172,7 +172,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide, [CODE_OF_CONDUCT.md](
 <a href="https://star-history.com/#joanium/joanium&Date">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=joanium/joanium&type=Date&theme=dark">
-    <img src="https://api.star-history.com/svg?repos=joanium/joanium&type=Date" alt="Star History Chart">
+    <img src="https://api.star-history.com/svg?repos=joanium/joanium-Classic&type=Date" alt="Star History Chart">
   </picture>
 </a>
 
