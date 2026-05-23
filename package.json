@@ -87,6 +87,6 @@
     "jest": "30.4.2",
     "lint-staged": "17.0.5",
     "prettier": "3.8.3",
-    "terser": "5.47.1"
+    "terser": "5.48.0"
   }
 }
